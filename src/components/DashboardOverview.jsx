@@ -29,7 +29,11 @@ const DashboardOverview = () => {
                 Healthy Leg
               </h2>
             </div>
-            <img src="/image1.svg" alt="Descriptive Alt Text" className="" />
+            <img
+              src="/HealthcareWebsite/image1.svg"
+              alt="Descriptive Alt Text"
+              className=""
+            />
           </div>
         </div>
         <div className="div2 w-[40%]  flex flex-col my-2">
